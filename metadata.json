@@ -1,0 +1,6 @@
+{
+  "name": "政治組排班管理系統",
+  "description": "政治組自動化排班與請假管理決策支援系統，整合排班總覽、智慧衝突檢測、假單審核與 What-If 影響預覽、每月請假統計和規則引擎配置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
